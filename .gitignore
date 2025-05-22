@@ -1,6 +1,0 @@
-venv/\n__pycache__/\n*.csv\n.ipynb_checkpoints/\ndata/
-venv/
-__pycache__/
-*.pyc
-
-
