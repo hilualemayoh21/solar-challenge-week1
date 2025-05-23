@@ -1,4 +1,8 @@
+venv/
+__pycache__/
+*.pyc
 *.pyo
 *.pyd
 *.exe
+*.dist-info/
 *.egg-info/
