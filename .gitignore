@@ -1,0 +1,4 @@
+*.pyo
+*.pyd
+*.exe
+*.egg-info/
