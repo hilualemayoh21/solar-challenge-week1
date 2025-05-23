@@ -1,4 +1,4 @@
 venv/\n__pycache__/\n*.csv\n.ipynb_checkpoints/\ndata/
+venv/
 *.pyc
 __pycache__/
-venv/
